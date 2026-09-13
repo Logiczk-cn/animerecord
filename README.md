@@ -3,7 +3,7 @@
 
 <img src="docs/banner.svg" alt="追番计划" width="100%"/>
 
-**纯信息型动画数据库与追番管理网站** · 界面形态受 [bgm.tv](https://bgm.tv) 启发，独立实现
+**纯信息型动画数据库与追番管理网站** · 界面形态受 [bgm.tv](https://bgm.tv) 启发，使用GLM-5.3-Flash独立实现
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -12,7 +12,7 @@
 [![Node](https://img.shields.io/badge/Node-%E2%89%A522.5-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-e46a76)](LICENSE)
 
-**运行时零第三方依赖 · 无任何影视资源 · 深色模式 · 移动端适配**
+**运行时零第三方依赖 · 无任何影视资源 · 深色模式 · 移动IOS端适配**
 
 </div>
 
